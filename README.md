@@ -24,8 +24,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by: R.HEMA JAI SURIYA
-Registeration Number : 212221040054
+Developed by: Bharathi priyan T
+Registeration Number : 212221040028
 */
 ```
 ```
